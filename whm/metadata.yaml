@@ -1,0 +1,3 @@
+name: WHM
+source: https://api.docs.cpanel.net/openapi/whm/overview/
+latest: versions/11.125.9901.267.yaml
